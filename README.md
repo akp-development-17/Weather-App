@@ -5,13 +5,14 @@ Project Description:-
 A weather application is developed with the help of HTML, CSS, JavaScript, API.
 This Project is all about displaying the weather details like
 
-Temperature
-Maximum and Minimum Temperature
-Precipitation percentage
-Humidity Percentage
-Wind Speed
-Wind degrees
-Sunrise and sunset
+`Temperature ,
+Maximum and Minimum Temperature ,
+Precipitation percentage ,
+Humidity Percentage ,
+Wind Speed ,
+Wind degrees ,
+Sunrise and sunset`
+
 It solves the problem that if someone searches for temperature/ weather details he may/may not get all the details at one place.
 The vision of this project is to solve this problem by providing all the details at one place.
 
@@ -31,11 +32,11 @@ Link : https://rapidapi.com/apininjas/api/weather-by-api-ninjas/
 
 Extensions:
 
-Rapid API Client:
+  Rapid API Client:
   Extension id: RapidAPI.vscode-rapidapi-client
-Prettier Formatter:
+  Prettier Formatter:
   Extension id: esbenp.prettier-vscode
-Live Server:
+  Live Server:
   Extension Id: ritwickdey.LiveServer
   
 Usage Instructions:
@@ -93,11 +94,9 @@ Key Contributions and Challenges:
     Accurate results 99%(same as google).
     
   Challenges:
-
     While developing sometimes API server error was fetched.
     
   Overcame challenges:
-
     More hands on experience with HTML , CSS , Java Script
     Clearing Cache will help if there is API server error all the time.
     
