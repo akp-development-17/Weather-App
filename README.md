@@ -1,6 +1,12 @@
 # Weather-App
 A weather forecast with the help of HTML , CSS , JavaScript , API , BootStrap and other modules
 
+Here are some snapshots of the web page:
+![image](https://user-images.githubusercontent.com/104623412/222873204-118f0866-4c56-4739-8989-07b7d9c108d3.png)
+![image](https://user-images.githubusercontent.com/104623412/222873207-e07eccc2-c49e-49d8-84f4-2643910d6cf5.png)
+![image](https://user-images.githubusercontent.com/104623412/222873209-366fea5b-1c8a-4ff8-a362-1a773eac1a75.png)
+
+
 Project Description:-
 A weather application is developed with the help of HTML, CSS, JavaScript, API.
 This Project is all about displaying the weather details like
@@ -106,3 +112,7 @@ Future Work:
   Backend development can be done which will result in (say weather analysis) and display graphs for understanding the pattern and predicting future.
   Random Weather quotes and jokes can displayed which will be a catchy move for attraction.
   With the help of same concept , and android application can be developed .
+
+
+
+
