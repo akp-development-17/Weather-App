@@ -1,13 +1,13 @@
 # Weather-App
 A weather forecast with the help of HTML , CSS , JavaScript , API , BootStrap and other modules
 
-Here are some snapshots of the web page:
+## Here are some snapshots of the web page:
 ![image](https://user-images.githubusercontent.com/104623412/222873204-118f0866-4c56-4739-8989-07b7d9c108d3.png)
 ![image](https://user-images.githubusercontent.com/104623412/222873207-e07eccc2-c49e-49d8-84f4-2643910d6cf5.png)
 ![image](https://user-images.githubusercontent.com/104623412/222873209-366fea5b-1c8a-4ff8-a362-1a773eac1a75.png)
 
 
-Project Description:-
+## Project Description:-
 A weather application is developed with the help of HTML, CSS, JavaScript, API.
 This Project is all about displaying the weather details like
 
@@ -29,7 +29,7 @@ Java Script
 API
 Visual Studio Code
 
-Installation Instructions:-
+## Installation Instructions:-
 Visual Studio Code:
 Link : https://visualstudio.microsoft.com/downloads/
 
@@ -45,17 +45,17 @@ Extensions:
   Live Server:
   Extension Id: ritwickdey.LiveServer
   
-Usage Instructions:
+## Usage Instructions:
   After writing the code , open the HTML code with the live server .
   To get weather details , first enter the name of the city.
   Then there a search button which states "Search".
   Click on the search button and the weather details will be displayed.
   There is also User guide and About in the navigation bar.
 
-Dependencies:
+### Dependencies:
 There is dependency on API server and the get and fetch requests.
 
-Technical Details:
+## Technical Details:
   Programming Language used:
     Java Script
 
@@ -68,7 +68,7 @@ Technical Details:
   Fetching Weather in Real Time:
     Rapid API
 
-Documentation and references:
+## Documentation and references:
   Boot Strap:
     Link : https://getbootstrap.com/
   W3 Schools
@@ -76,7 +76,7 @@ Documentation and references:
   Stack Overflow
     Link: https://stackoverflow.com/
     
-Procedure:
+## Procedure:
 
   All the files are created :
     HTML file (.html)
@@ -92,7 +92,7 @@ Procedure:
   Footer is created.
   Designing of background images, fonts, background color is done with the help of CSS
   
-Key Contributions and Challenges:
+## Key Contributions and Challenges:
 
   Key Contribution:
     Flexboxes context is added in card format where details are displayed hence making it responsive.
@@ -106,7 +106,7 @@ Key Contributions and Challenges:
     More hands on experience with HTML , CSS , Java Script
     Clearing Cache will help if there is API server error all the time.
     
-Future Work:
+## Future Work:
   A lot of works can be done with this project in future .
   Using frameworks like React will be useful.
   Backend development can be done which will result in (say weather analysis) and display graphs for understanding the pattern and predicting future.
